@@ -5,7 +5,7 @@ Project ini berisi tentang aplikasi Tanya Daku yang menampilkan gambar bola seca
 ## Jalankan aplikasi
 
 ```
-$ flutter upgrade
+$ flutter pub upgrade
 $ flutter pub get
 $ flutter run
 ```
