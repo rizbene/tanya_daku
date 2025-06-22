@@ -1,0 +1,2 @@
+C:/Users/Galih/Downloads/MobileProjects/tanya_daku/android/app/.cxx/Debug/5z45465w/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Galih/Downloads/MobileProjects/tanya_daku/android/app/.cxx/Debug/5z45465w/x86_64/CMakeFiles/rebuild_cache.dir
